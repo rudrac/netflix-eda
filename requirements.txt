@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib
+seaborn
+# Required libraries for data analysis and visualization
