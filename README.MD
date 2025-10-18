@@ -1,5 +1,5 @@
 Netflix Movies & TV Shows EDA
-🔍 Overview
+Overview
 This project performs an exploratory data analysis (EDA) on the Netflix Movies and TV Shows dataset. It uses Pandas and NumPy to clean, analyze, and visualize trends in Netflix content.
 
 Tech Stack
