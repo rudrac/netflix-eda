@@ -24,7 +24,7 @@ Features
 
 How to Run
 - Clone the repo:
-git clone https://github.com/yourusername/netflix-eda.git
+git clone https://github.com/rudrac/netflix-eda.git
 cd netflix-eda
 - Install dependencies:
 pip install pandas numpy matplotlib seaborn
